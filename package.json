@@ -1,0 +1,32 @@
+{
+  "name": "xiaofu-openclaw-connector",
+  "version": "1.0.0",
+  "description": "🦞 将小芙助手变成 OpenClaw 的原生前端外壳。支持 WebSocket 双向通信与静默握手 (Silent Auth)。",
+  "main": "index.js",
+  "bin": {
+    "install-xiaofu-channel": "./bin/install.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "openclaw",
+    "xiaofu",
+    "agent",
+    "channel",
+    "websocket",
+    "silent-auth"
+  ],
+  "author": "Sangfor AI Team",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "@types/ws": "^8.5.10",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
