@@ -66,7 +66,7 @@ npx xiaofu-openclaw-connector
 欢迎提交 Issue 或 Pull Request 来完善这个连接器！
 
 - **GitHub**: [sangfor-ai/xiaofu-openclaw-connector](https://github.com/sangfor-ai/xiaofu-openclaw-connector)
-- **Author**: Sangfor AI Team
+- **Author**: SuperDream
 
 ---
 
